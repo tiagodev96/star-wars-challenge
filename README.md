@@ -4,6 +4,13 @@ Challenge made in 2 hours to show front-end skills in API connection. The purpos
 
 The layout has not yet been implemented and as a future functionality improvement, it is still necessary to implement a search field.
 
+## Technologies Used
+
+- React
+- Axios
+- Material UI
+- SCSS
+
 ### `npm start`
 
 ## Instalation
